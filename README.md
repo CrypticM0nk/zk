@@ -1,2 +1,1 @@
-# zk-OFAC MVP
-This is the full hackathon-ready MVP...
+zk-OFAC MVP
